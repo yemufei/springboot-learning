@@ -7,11 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootLearningApplication {
 
 	public static void main(String[] args) {
-		try {
+//		try {
 			SpringApplication.run(SpringbootLearningApplication.class, args);
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
 	}
 
 }
